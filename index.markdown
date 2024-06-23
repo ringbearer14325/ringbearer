@@ -7,4 +7,5 @@ layout: home
 
 
 
-Welcome to my website! My name is Daniel Ramos and i'm a web developer/programmer. I currently reside in Guaynabo, Puerto Rico. 
+Welcome to my website! My name is Daniel Ramos and i'm a web developer/programmer. I currently reside in Guaynabo, Puerto Rico.
+ 
