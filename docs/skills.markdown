@@ -4,7 +4,7 @@ title: Skills
 permalink: /skills/
 ---
 
-Skills
+
 
 Programming languages & Tools
 Asp.Net Core
